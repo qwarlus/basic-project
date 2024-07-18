@@ -1,0 +1,1 @@
+document.body.innerHTML += "<h2>world</h2>" 
